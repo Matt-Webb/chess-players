@@ -1,0 +1,15 @@
+{
+  "name": "fide-history-service",
+  "version": "1.0.0",
+  "description": "Extract all history data from the FIDE database using a web scrape.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew D Webb",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "request": "^2.75.0"
+  }
+}
